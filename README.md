@@ -1,5 +1,7 @@
 # openscad-3d-modeling
 
+[English](README.en.md) | [简体中文](README.md)
+
 让 AI 编程助手（WorkBuddy / Claude Code 等支持 MCP 的智能体）通过自然语言描述、
 手绘图或照片制作精确的参数化 3D 模型，多轮对话确认关键尺寸，最终导出可直接
 3D 打印的 STL / 3MF 文件。底层由 [OpenSCAD](https://openscad.org) 命令行驱动。
